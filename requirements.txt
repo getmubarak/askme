@@ -1,0 +1,7 @@
+llama-index
+pymysql
+langchain 
+openai 
+streamlit
+cryptography
+matplotlib
